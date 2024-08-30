@@ -17,7 +17,7 @@ def main():
     Main function to run the Streamlit app.
     """
     global client
-    st.title("AI Persuasion Companion for CMV")
+    st.title("Pseudo-profound Bullshit Generator")
 
     # Add app description
     st.markdown(
